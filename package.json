@@ -1,0 +1,1 @@
+{"name": "feedback-analyzer", "version": "1.0.0", "description": "Simple Cloudflare Worker for analyzing product feedback using AI", "main": "src/index.js", "scripts": {"dev": "wrangler dev", "deploy": "wrangler deploy"}, "devDependencies": {"wrangler": "^3.0.0"}}
